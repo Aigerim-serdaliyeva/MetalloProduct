@@ -1,6 +1,6 @@
 <?php
 
-if(isset($_POST["antispam"])) {
+if(isset($_POST["info"])) {
 
   $method = $_SERVER['REQUEST_METHOD'];
 
