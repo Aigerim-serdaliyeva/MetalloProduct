@@ -118,6 +118,7 @@
     &-title {
       font-size: 39px;
       margin: 0 0 35px 0;
+      color: $accent;
       text-align: left;
       font-weight: bold;
     }
@@ -125,6 +126,9 @@
 
 }
 
+.remodal.more-modal {
+  max-width: 850px;
+}
 
 
 #thanks-page {   
